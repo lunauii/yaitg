@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2okwdta2tynl"
-path="res://.godot/imported/Yet Another Interactive Terraria Guide.png-4f2109ca4fe48f465466ee37c92032bc.ctex"
+uid="uid://dxheadumibsw"
+path="res://.godot/imported/index.icon.png-b36bd4b8cb077cc870dca38835e98b6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/release v0.1.0.0/Yet Another Interactive Terraria Guide.png"
-dest_files=["res://.godot/imported/Yet Another Interactive Terraria Guide.png-4f2109ca4fe48f465466ee37c92032bc.ctex"]
+source_file="res://exports/release v.0.1.1.0/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-b36bd4b8cb077cc870dca38835e98b6d.ctex"]
 
 [params]
 

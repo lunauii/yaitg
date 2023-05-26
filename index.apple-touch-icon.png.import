@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgira1io6l7ue"
-path="res://.godot/imported/Yet Another Interactive Terraria Guide.apple-touch-icon.png-96209e34b759d9ad2fc1aab6f2b83893.ctex"
+uid="uid://cokvkahcia340"
+path="res://.godot/imported/index.apple-touch-icon.png-fdac343deaf278a581efaa926f906da2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/release v0.1.0.0/Yet Another Interactive Terraria Guide.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Yet Another Interactive Terraria Guide.apple-touch-icon.png-96209e34b759d9ad2fc1aab6f2b83893.ctex"]
+source_file="res://exports/release v.0.1.1.0/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-fdac343deaf278a581efaa926f906da2.ctex"]
 
 [params]
 

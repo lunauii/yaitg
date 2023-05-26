@@ -1,5 +1,5 @@
-# Yet Another Interactive Terraria Guide
+# Terragear
 
-Index file for [YAITG Online][YAITG]
+Index file for [Terragear][Terragear]
 
-[YAITG]: https://lunauii.github.io/yaitg
+[Terragear]: https://lunauii.github.io/yaitg
